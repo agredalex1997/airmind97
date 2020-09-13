@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=airmind97)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **airmind97/airmind97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
